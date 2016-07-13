@@ -49,4 +49,4 @@ Dont think too much, share your knowledge on GitHub! Now!
 
 :octocat:
 
-> For discussion use the issue [#1](/felquis/not-of-this-galaxy/issues/1)
+> For discussion use the issue [#1](https://github.com/felquis/not-of-this-galaxy/issues/1)
